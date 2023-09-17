@@ -1,0 +1,94 @@
+{
+  "LineEntries": [
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Your available choices are:",
+      "Action": "DisplayChoices"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "0. Exit",
+      "Action": "Exit"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "1. Mammals",
+      "Action": "ShowAnimals"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "2. Save to file",
+      "Action": "SaveToFile"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "3. Read from file",
+      "Action": "ReadFromFile"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Please enter your choice: ",
+      "Action": "PromptInput"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Returning to the main menu.",
+      "Action": "ReturnToMainMenu"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Invalid choice. Please try again.",
+      "Action": "DisplayErrorMessage"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Saving data to file: ",
+      "Action": "SavingToFile"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Data was successfully saved to: arg",
+      "Action": "DataSavedSuccessfully"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Data saving was unsuccessful.",
+      "Action": "DataSaveFailed"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Reading data from file: ",
+      "Action": "ReadingFromFile"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Data was successfully read from: arg",
+      "Action": "DataReadSuccessfully"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "Data reading was unsuccessful.",
+      "Action": "DataReadFailed"
+    },
+    {
+      "BgColor": 3,
+      "FrColor": 14,
+      "Text": "=> Main Screen => Animals Screen",
+      "Action": "NavigateToAnimalsScreen"
+    }
+  ]
+}

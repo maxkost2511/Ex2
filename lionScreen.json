@@ -1,0 +1,166 @@
+{
+  "LineEntries": [
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "Available options:",
+      "Action": "DisplayOptions"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "0. Exit",
+      "Action": "Exit"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "1. List all Lion",
+      "Action": "ListAllLions"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "2. Create a new Lion",
+      "Action": "CreateNewLion"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "3. Delete existing Lion",
+      "Action": "DeleteExistingLion"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "4. Modify existing Lion",
+      "Action": "ModifyExistingLion"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "Please enter your choice: ",
+      "Action": "PromptInput"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "Returning to parent menu.",
+      "Action": "ReturnToParentMenu"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "Invalid choice. Try again.",
+      "Action": "DisplayErrorMessage"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "Here's a list of Lion:",
+      "Action": "DisplayListOfLions"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "Lion number arg, ",
+      "Action": "DisplayLionNumber"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "The list of Lion is empty.",
+      "Action": "DisplayEmptyListOfLions"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "Lion with name: arg has been added to a list of Lions",
+      "Action": "LionAddedToTheList"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "Invalid input.",
+      "Action": "InvalidInput"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "What is the name of the Lion you want to delete? ",
+      "Action": "PromptLionNameForDeletion"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "Lion with name: arg has been deleted from a list of Lions",
+      "Action": "LionDeletedFromTheList"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "Lion not found.",
+      "Action": "LionNotFound"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "What is the name of the Lion you want to edit? ",
+      "Action": "PromptLionNameForEdit"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "Lion after edit:",
+      "Action": "DisplayLionAfterEdit"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "What name of the Lion? ",
+      "Action": "PromptLionName"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "What is the Lion's age? ",
+      "Action": "PromptLionAge"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "Does top predator? (yes/no) ",
+      "Action": "PromptLionTopPredator"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "Is pack hunter? (yes/no) ",
+      "Action": "PromptLionPackHunter"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "What mane does it have?",
+      "Action": "PromptLionMane"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "Is it roaring? (yes/no) ",
+      "Action": "PromptLionRoaring"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "Does it protect the territory? (yes/no) ",
+      "Action": "PromptLionTerritoryDefense"
+    },
+    {
+      "BgColor": "DarkBlue",
+      "FrColor": "White",
+      "Text": "=> Main Screen => Animals Screen => Mammals Screen => Lions Screen",
+      "Action": "NavigateToLionsScreen"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "LineEntries": [
+    {
+      "BgColor": "5",
+      "FrColor": "11",
+      "Text": "Available options:"
+    },
+    {
+      "BgColor": "5",
+      "FrColor": "11",
+      "Text": "0. Exit"
+    },
+    {
+      "BgColor": "5",
+      "FrColor": "11",
+      "Text": "1. Main Screen"
+    },
+    {
+      "BgColor": "5",
+      "FrColor": "11",
+      "Text": "2. Animal Screen"
+    },
+    {
+      "BgColor": "5",
+      "FrColor": "11",
+      "Text": "3. Mammal Screen"
+    },
+    {
+      "BgColor": "5",
+      "FrColor": "11",
+      "Text": "4. Dog Screen"
+    },
+    {
+      "BgColor": "5",
+      "FrColor": "11",
+      "Text": "5. Chimpanzee Screen"
+    },
+    {
+      "BgColor": "5",
+      "FrColor": "11",
+      "Text": "6. Lion Screen"
+    },
+    {
+      "BgColor": "5",
+      "FrColor": "11",
+      "Text": "7. Afalina Screen"
+    },
+    {
+      "BgColor": "5",
+      "FrColor": "11",
+      "Text": "8. Settings Screen"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "BgColor": "5",
+      "FrColor": "11",
+      "Text": "Enter a new color for the display: "
+    },
+    {
+      "BgColor": "5",
+      "FrColor": "11",
+      "Text": "Invalid input. Try again."
+    },
+    {
+      "BgColor": "5",
+      "FrColor": "11",
+      "Text": "=> Main Screen => Settings Screen"
+    }
+  ]
+}

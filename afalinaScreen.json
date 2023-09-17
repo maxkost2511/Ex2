@@ -1,0 +1,166 @@
+{
+  "LineEntries": [
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Available options:",
+      "Action": "DisplayOptions"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "0. Exit",
+      "Action": "Exit"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "1. List all Afalina",
+      "Action": "ListAllAfalina"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "2. Create a new Afalina",
+      "Action": "CreateNewAfalina"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "3. Delete existing Afalina",
+      "Action": "DeleteExistingAfalina"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "4. Modify existing Afalina",
+      "Action": "ModifyExistingAfalina"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Please enter your choice: ",
+      "Action": "PromptInput"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Returning to parent menu.",
+      "Action": "ReturnToParentMenu"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Invalid choice. Try again.",
+      "Action": "DisplayErrorMessage"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Here's a list of Afalina:",
+      "Action": "DisplayListOfAfalina"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Afalina number arg, ",
+      "Action": "DisplayAfalinaNumber"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "The list of Afalina is empty.",
+      "Action": "DisplayEmptyListOfAfalina"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Afalina with name: arg has been added to a list of Afalina",
+      "Action": "AfalinaAddedToTheList"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Invalid input.",
+      "Action": "InvalidInput"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the name of the Afalina you want to delete? ",
+      "Action": "PromptAfalinaNameForDeletion"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Afalina with name: arg has been deleted from the list of Afalina",
+      "Action": "AfalinaDeletedFromTheList"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Afalina not found.",
+      "Action": "AfalinaNotFound"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the name of the Afalina you want to edit? ",
+      "Action": "PromptAfalinaNameForEdit"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Afalina after edit:",
+      "Action": "DisplayAfalinaAfterEdit"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What name of the Afalina? ",
+      "Action": "PromptAfalinaName"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the Afalina's age? ",
+      "Action": "PromptAfalinaAge"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Does it possess echolocation? (yes/no) ",
+      "Action": "PromptAfalinaEcholocation"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the social behavior of this one? ",
+      "Action": "PromptAfalinaSocialBehavior"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Does it have a playful behavior? (yes/no) ",
+      "Action": "PromptAfalinaPlayfulBehavior"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What brain size?(int) ",
+      "Action": "PromptAfalinaBrainSize"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Does it know how to swim at high speeds? (yes/no) ",
+      "Action": "PromptAfalinaHighSpeedSwimming"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "=> Main Screen => Animals Screen => Mammals Screen => Afalina Screen",
+      "Action": "NavigateToAfalinaScreen"
+    }
+  ]
+}

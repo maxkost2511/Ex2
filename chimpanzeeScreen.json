@@ -1,0 +1,166 @@
+{
+  "LineEntries": [
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Available options:",
+      "Action": "DisplayOptions"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "0. Exit",
+      "Action": "Exit"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "1. List all Chimpanzee",
+      "Action": "ListAllChimpanzee"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "2. Create a new Chimpanzee",
+      "Action": "CreateNewChimpanzee"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "3. Delete existing Chimpanzee",
+      "Action": "DeleteExistingChimpanzee"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "4. Modify existing Chimpanzee",
+      "Action": "ModifyExistingChimpanzee"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Please enter your choice: ",
+      "Action": "PromptInput"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Returning to parent menu.",
+      "Action": "ReturnToParentMenu"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Invalid choice. Try again.",
+      "Action": "DisplayErrorMessage"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Here's a list of chimpanzee:",
+      "Action": "DisplayListOfChimpanzee"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Chimpanzee number arg, ",
+      "Action": "DisplayChimpanzeeNumber"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "The list of chimpanzee is empty.",
+      "Action": "DisplayEmptyListOfChimpanzee"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Chimpanzee with name: arg has been added to a list of chimpanzees",
+      "Action": "ChimpanzeeAddedToTheList"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Invalid input.",
+      "Action": "InvalidInput"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the name of the Chimpanzee you want to delete? ",
+      "Action": "PromptChimpanzeeNameForDeletion"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Chimpanzee with name: arg has been deleted from a list of Chimpanzees",
+      "Action": "ChimpanzeeDeletedFromTheList"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Chimpanzee not found.",
+      "Action": "ChimpanzeeNotFound"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the name of the chimpanzee you want to edit? ",
+      "Action": "PromptChimpanzeeNameForEdit"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Chimpanzee after edit:",
+      "Action": "DisplayChimpanzeeAfterEdit"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What name of the chimpanzee? ",
+      "Action": "PromptChimpanzeeName"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the chimpanzee's age? ",
+      "Action": "PromptChimpanzeeAge"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Are the thumbs opposable in Chimpanzees? (yes/no) ",
+      "Action": "PromptChimpanzeeThumbs"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the chimpanzee's social behavior? ",
+      "Action": "PromptChimpanzeeBehavior"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Does it use tools? (yes/no) ",
+      "Action": "PromptChimpanzeeTools"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the chimpanzee's inteligence?(int) ",
+      "Action": "PromptChimpanzeeIntelligence"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the chimpanzee's diet? ",
+      "Action": "PromptChimpanzeeDiet"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "=> Main Screen => Animals Screen => Mammals Screen => Chimpanzee Screen",
+      "Action": "NavigateToChimpanzeeScreen"
+    }
+  ]
+}

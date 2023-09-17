@@ -1,0 +1,46 @@
+{
+  "LineEntries": [
+    {
+      "BgColor": 11,
+      "FrColor": 4,
+      "Text": "Your available choices are:",
+      "Action": "DisplayChoices"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 4,
+      "Text": "1. Animals",
+      "Action": "ShowAnimals"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 4,
+      "Text": "2. Color settings",
+      "Action": "OpenColorSettings"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 4,
+      "Text": "Please enter your choice: ",
+      "Action": "PromptInput"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 4,
+      "Text": "Goodbye.",
+      "Action": "Exit"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 4,
+      "Text": "Invalid choice. Try again.",
+      "Action": "DisplayErrorMessage"
+    },
+    {
+      "BgColor": 11,
+      "FrColor": 4,
+      "Text": "=> MainScreen",
+      "Action": "ReturnToMainScreen"
+    }
+  ]
+}

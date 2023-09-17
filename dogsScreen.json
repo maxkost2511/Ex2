@@ -1,0 +1,142 @@
+{
+  "LineEntries": [
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Available options:",
+      "Action": "DisplayOptions"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "0. Exit",
+      "Action": "Exit"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "1. List all dogs",
+      "Action": "ListAllDogs"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "2. Create a new dog",
+      "Action": "CreateNewDog"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "3. Delete existing dog",
+      "Action": "DeleteExistingDog"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "4. Modify existing dog",
+      "Action": "ModifyExistingDog"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Please enter your choice: ",
+      "Action": "PromptInput"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Returning to parent menu.",
+      "Action": "ReturnToParentMenu"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Invalid choice. Try again.",
+      "Action": "DisplayErrorMessage"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Here's a list of dogs:",
+      "Action": "DisplayListOfDogs"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Dog number arg, ",
+      "Action": "DisplayDogNumber"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "The list of dogs is empty.",
+      "Action": "DisplayEmptyListOfDogs"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Dog with name: arg has been added to the list of dogs",
+      "Action": "DogAddedToTheList"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Invalid input.",
+      "Action": "InvalidInput"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the name of the dog you want to delete? ",
+      "Action": "PromptDogNameForDeletion"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Dog with name: arg has been deleted from the list of dogs",
+      "Action": "DogDeletedFromTheList"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Dog not found.",
+      "Action": "DogNotFound"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the name of the dog you want to edit? ",
+      "Action": "PromptDogNameForEdit"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "Dog after edit:",
+      "Action": "DisplayDogAfterEdit"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What name of the dog? ",
+      "Action": "PromptDogName"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the dog's age? ",
+      "Action": "PromptDogAge"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "What is the dog's breed? ",
+      "Action": "PromptDogBreed"
+    },
+    {
+      "BgColor": 5,
+      "FrColor": 11,
+      "Text": "=> Main Screen => Animals Screen => Mammals Screen => Dogs Screen",
+      "Action": "NavigateToDogsScreen"
+    }
+  ]
+}
